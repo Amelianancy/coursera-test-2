@@ -1,0 +1,54 @@
+body {
+  background-color: white;
+}
+
+#header-nav {
+  background-color: burlywood;
+  border-radius: 0;
+  border: 0;
+  position: relative;
+}
+ 
+.navbar-brand {
+  position: relative;
+  height: auto;
+  font-size: 20px;
+}
+
+.textcenter  {
+  text-align: center;
+}
+
+div.menu1  {
+  background-color: gainsboro;
+  color: black;
+  margin: 50px;
+  padding: 50px;
+  border: black;
+}
+
+div.menu2 {
+  background-color: gainsboro;
+  color:black;
+  margin: 50px;
+  padding: 50px;
+}
+
+
+div.menu3 {
+ background-color: gainsboro;
+ color:black;
+  margin: 50px;
+  padding: 50px;
+}
+  
+@media (min-width: 768px){
+  #collapsable-nav{
+    display: none !important;
+  }
+}  
+
+
+  
+   
+  
